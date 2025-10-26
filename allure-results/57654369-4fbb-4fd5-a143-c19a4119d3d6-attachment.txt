@@ -1,0 +1,1 @@
+Payload: {'firstName': 'User_xkrhmo', 'lastName': 'Test_ydsmgz', 'address': 'boxtgfkn str, bld 47, apt 86', 'metroStation': 192, 'phone': '+79783671866', 'rentTime': 2, 'deliveryDate': '2025-11-09', 'comment': 'Test order fqljnzon', 'color': ['GREY', 'BLACK']}

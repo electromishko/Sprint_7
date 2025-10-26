@@ -1,0 +1,1 @@
+Payload: {'firstName': 'User_wjwzry', 'lastName': 'Test_nkpsze', 'address': 'sibrbwpp str, bld 47, apt 36', 'metroStation': 22, 'phone': '+79544577759', 'rentTime': 5, 'deliveryDate': '2025-01-02', 'comment': 'Test order xwaavfiy', 'color': []}
