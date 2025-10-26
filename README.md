@@ -1,13 +1,6 @@
 # Sprint_7
 Автоматизированные тесты API сервиса аренды самокатов
 
-## Предварительные требования
-- Python 3
-- Firefox
-
-## Зависимости Python
-pip install -r requirements.txt
-
 ## Тестовые сценарии
 
 ### 1. Создание курьера (test_courier_create.py)
